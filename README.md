@@ -1,8 +1,8 @@
 # Sistema de Partidas
 
--Sistema de login e cadastro
--Somente o administrador pode criar/confirmar/editar/apagar as partidas
--Todos os usuários podem ver a lista de partidas agendadas
+- Sistema de login e cadastro
+- Somente o administrador pode criar/confirmar/editar/apagar as partidas
+- Todos os usuários podem ver a lista de partidas agendadas
 
 ### Tecnologias
 - PHP 🐘
